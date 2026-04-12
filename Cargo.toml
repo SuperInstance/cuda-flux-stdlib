@@ -1,0 +1,8 @@
+[package]
+name = "cuda-flux-stdlib"
+version = "0.1.0"
+edition = "2021"
+description = "Standard library for FLUX VM programs — bytecode subroutine patterns"
+license = "MIT"
+
+[dependencies]
